@@ -1,3 +1,5 @@
-# portfolio
+# Portfolio
 
-#[Live Preview](https://felipemelzfwm.github.io/portfolio/)
+Website containing some of the projects I`ve worked on lately.
+
+[Live Preview](https://felipemelzfwm.github.io/portfolio/)
