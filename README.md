@@ -1,3 +1,3 @@
 # portfolio
 
-#(Live Preview)[https://felipemelzfwm.github.io/portfolio/]
+#[Live Preview](https://felipemelzfwm.github.io/portfolio/)
